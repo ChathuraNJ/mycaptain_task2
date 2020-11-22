@@ -1,0 +1,19 @@
+body{
+    background-color:lightsalmon;
+    margin :100px;
+}
+#container {
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+    background: white;
+    height: 800px;
+    overflow: auto;
+   
+    color: lightseagreen;
+    
+    
+}
